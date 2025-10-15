@@ -28,4 +28,6 @@
 
 ![Text Analysis Result](https://github.com/hasongc01/E-Commerce-Review-Text-Analysis-and-Ratings-Classification/blob/main/Result%20Interpretation.png)
 
+![Further Improvements](https://github.com/hasongc01/E-Commerce-Review-Text-Analysis-and-Ratings-Classification/blob/main/Further%20Improvements.png)
+
 ![Text Analysis Implication](https://github.com/hasongc01/E-Commerce-Review-Text-Analysis-and-Ratings-Classification/blob/main/Implications.png)
