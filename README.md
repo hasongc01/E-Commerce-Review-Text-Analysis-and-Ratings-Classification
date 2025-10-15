@@ -1,5 +1,11 @@
 # E-Commerce-Review-Text-Analysis-and-Ratings-Classification
 
+> This project was completed as part of the **Data Science Trainee Program at Samsung SDS**.  
+> It was later published on the **Brightics AI Knowledge Sharing** community platform for open access and collaboration.  
+> 🔗 [View the project on Brightics AI Community](https://www.brightics.ai/community/knowledge-sharing/detail/7057)
+
+
+
 ![Project Overview](https://github.com/hasongc01/E-Commerce-Review-Text-Analysis-and-Ratings-Classification/blob/main/Project_Overview.png?raw=true)
 
 ![Project Overview2](https://github.com/hasongc01/E-Commerce-Review-Text-Analysis-and-Ratings-Classification/blob/main/Project_Overview2.png?raw=true)
